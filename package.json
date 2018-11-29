@@ -5,7 +5,15 @@
   "private": true,
   "dependencies": {
     "egg": "^2.2.1",
-    "egg-scripts": "^2.5.0"
+    "egg-cors": "^2.1.1",
+    "egg-jwt": "^3.1.4",
+    "egg-scripts": "^2.5.0",
+    "egg-sequelize": "^4.2.0",
+    "md5": "^2.2.1",
+    "moment": "^2.22.2",
+    "pg": "^7.6.1",
+    "pg-hstore": "^2.3.2",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "autod": "^3.0.1",
